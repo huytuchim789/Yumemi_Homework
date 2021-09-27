@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/huytuchim789/Yumemi_Homework.git/static/css/main.539c5e65.chunk.css",
-    "main.js": "/huytuchim789/Yumemi_Homework.git/static/js/main.1fe8b82c.chunk.js",
-    "main.js.map": "/huytuchim789/Yumemi_Homework.git/static/js/main.1fe8b82c.chunk.js.map",
-    "runtime-main.js": "/huytuchim789/Yumemi_Homework.git/static/js/runtime-main.9634abe2.js",
-    "runtime-main.js.map": "/huytuchim789/Yumemi_Homework.git/static/js/runtime-main.9634abe2.js.map",
-    "static/js/2.a3b1aa16.chunk.js": "/huytuchim789/Yumemi_Homework.git/static/js/2.a3b1aa16.chunk.js",
-    "static/js/2.a3b1aa16.chunk.js.map": "/huytuchim789/Yumemi_Homework.git/static/js/2.a3b1aa16.chunk.js.map",
-    "static/js/3.2f1fcb46.chunk.js": "/huytuchim789/Yumemi_Homework.git/static/js/3.2f1fcb46.chunk.js",
-    "static/js/3.2f1fcb46.chunk.js.map": "/huytuchim789/Yumemi_Homework.git/static/js/3.2f1fcb46.chunk.js.map",
-    "index.html": "/huytuchim789/Yumemi_Homework.git/index.html",
-    "static/css/main.539c5e65.chunk.css.map": "/huytuchim789/Yumemi_Homework.git/static/css/main.539c5e65.chunk.css.map",
-    "static/js/2.a3b1aa16.chunk.js.LICENSE.txt": "/huytuchim789/Yumemi_Homework.git/static/js/2.a3b1aa16.chunk.js.LICENSE.txt"
+    "main.css": "/Yumemi_Homework/static/css/main.539c5e65.chunk.css",
+    "main.js": "/Yumemi_Homework/static/js/main.1fe8b82c.chunk.js",
+    "main.js.map": "/Yumemi_Homework/static/js/main.1fe8b82c.chunk.js.map",
+    "runtime-main.js": "/Yumemi_Homework/static/js/runtime-main.cf228998.js",
+    "runtime-main.js.map": "/Yumemi_Homework/static/js/runtime-main.cf228998.js.map",
+    "static/js/2.a3b1aa16.chunk.js": "/Yumemi_Homework/static/js/2.a3b1aa16.chunk.js",
+    "static/js/2.a3b1aa16.chunk.js.map": "/Yumemi_Homework/static/js/2.a3b1aa16.chunk.js.map",
+    "static/js/3.2f1fcb46.chunk.js": "/Yumemi_Homework/static/js/3.2f1fcb46.chunk.js",
+    "static/js/3.2f1fcb46.chunk.js.map": "/Yumemi_Homework/static/js/3.2f1fcb46.chunk.js.map",
+    "index.html": "/Yumemi_Homework/index.html",
+    "static/css/main.539c5e65.chunk.css.map": "/Yumemi_Homework/static/css/main.539c5e65.chunk.css.map",
+    "static/js/2.a3b1aa16.chunk.js.LICENSE.txt": "/Yumemi_Homework/static/js/2.a3b1aa16.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9634abe2.js",
+    "static/js/runtime-main.cf228998.js",
     "static/js/2.a3b1aa16.chunk.js",
     "static/css/main.539c5e65.chunk.css",
     "static/js/main.1fe8b82c.chunk.js"
